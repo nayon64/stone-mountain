@@ -1,0 +1,37 @@
+.sub-nav{
+	background-color: rgba(208, 218, 218, 1);
+}
+.bg-lion{
+	background-color: #E4CAA1;
+}
+.bg-pick{
+	background-color: #EEA4A4;
+}
+
+.menus {
+	list-style: none;
+}
+.shop-btn{
+	background-color: #1B4745;
+}
+.maple-leaf1{
+	max-width: 12vw;
+	bottom:3vw;
+	right: 6vw;
+	rotate: -35deg;
+}
+.maple-leaf2{
+	max-width: 12vw;
+	top:3vw;
+	left: 6vw;
+	rotate: -220deg;
+}
+.banner-title{
+	font-size: 12vw;
+}
+.font-family-judson{
+	font-family: 'Judson', serif;
+}
+.frabriec-tag{
+	top: 20px;
+}
